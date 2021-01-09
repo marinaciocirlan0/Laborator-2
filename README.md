@@ -20,6 +20,6 @@ double note[5]; // aici se salveaza notele obtinute in semestrul anterior
 > citirea datelor pentru o variabilă de tip student, calculul mediei, al restanțelor și afișarea datelor<br/> 
 
 2. Realizați o funcție care șterge din vector toți studenții care au cel puțin o restanță (realocând spațiul ocupat).  Afișati vectorul rezultat. Care este complexitatea pentru secvența de ștergere a elementelor din vector cu realocare de spațiu ? 
-3. Reaizați o funcție care adaugă în vector un student nou, pe o anumită poziție (realocând spațiul ocupat).  Afișati vectorul rezultat. Care este complexitatea ?
+3. Realizați o funcție care adaugă în vector un student nou, pe o anumită poziție (realocând spațiul ocupat).  Afișati vectorul rezultat. Care este complexitatea ?
 
 * Recomandare: citirile, afișările se fac din și în fisiere text.
