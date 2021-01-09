@@ -2,9 +2,9 @@
 # Laborator-2 Alocare dinamica, structuri
 </h1>
 
-**Cerinta:**
+**Cerință:**
 
-- Se da stuctura student: 
+- Se dă stuctura student: 
 ```
 struct student{
 char *nume, *prenume;
@@ -13,14 +13,14 @@ double note[5]; // aici se salveaza notele obtinute in semestrul anterior
 };
 ```
 
-1. In main – declarati un vector de student alocat dinamic. Populati-l cu date citite de la tastatura. Sortati-l dupa medie. Afisati studentii cu restante astfel: id, nume, prenume, nr de restante.  
+1. În main – declarați un vector student alocat dinamic. Populați-l cu date citite de la tastatură. Sortați-l după medie. Afișați studenții cu restanțe, astfel: id, nume, prenume, număr de restanțe.  
 
-* ***Implementati cerintele de mai sus utilizand functii***: 
--  alocare spatiu pentru vector, sortare pentru vector, afisare pentru vector
--  citire date pentru o variabila de tip student, calcul medie/ restanta pentru un student, afisare date student. 
-** Pentru sortare se poate folosi orice metoda
+* ***Implementați cerințele de mai sus utilizând funcții***: 
+ -alocare spațiu pentru vector, sortare pentru vector, afișare pentru vector
+ -citire date pentru o variabilă de tip student, calcul medie/ restanță pentru un student, afișare date student 
+** Pentru sortare se poate folosi orice metodă
 
-2. Realizati o functie care sterge din vector toti studentii care au cel putin o restanta (realocand spatiul ocupat).  Afisati vectorul rezultat. Care este complexitatea pentru secventa de stergere a elementelor din vector cu realocare de spatiu ? 
-3. Reaizati o functie care adauga in vector un student nou, pe o anumita pozitie (realocand spatiul ocupat).  Afisati vectorul rezultat. Care este complexitatea ?
+2. Realizați o funcție care șterge din vector toți studenții care au cel puțin o restanță (realocând spațiul ocupat).  Afișati vectorul rezultat. Care este complexitatea pentru secvența de ștergere a elementelor din vector cu realocare de spațiu ? 
+3. Reaizați o funcție care adaugă în vector un student nou, pe o anumită poziție (realocând spațiul ocupat).  Afisati vectorul rezultat. Care este complexitatea ?
 
 * Recomandare: citirile, afisarile se fac din/in fisiere text.
