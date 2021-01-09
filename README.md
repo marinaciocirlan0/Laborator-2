@@ -1,14 +1,16 @@
 # Laborator-2 Alocare dinamica, structuri
 
-**Cerinta**
+**Cerinta:**
 
 - Se da stuctura student: 
 
-> struct student{
-> char *nume, *prenume;
-> char id[6];   //id student
-> double note[5]; // aici se salveaza notele obtinute in semestrul anterior
-> };
+```
+struct student{
+char *nume, *prenume;
+char id[6];   //id student
+double note[5]; // aici se salveaza notele obtinute in semestrul anterior
+};
+```
 
 1. In main – declarati un vector de student alocat dinamic Populati-l cu date citite de la tastatura. Sortati-l dupa medie. Afisati studentii  restanta astfel: id, nume, prenume, nr de restante!  
 * Implementati cerintele de mai sus utilizand functii: 
