@@ -1,5 +1,5 @@
 <h1 align="center">
-# Laborator-2 Alocare dinamica, structuri
+ Laborator-2 Alocare dinamica, structuri
 </h1>
 
 **Cerință:**
@@ -15,7 +15,7 @@ double note[5]; // aici se salveaza notele obtinute in semestrul anterior
 
 1. În main – declarați un vector student alocat dinamic. Populați-l cu date citite de la tastatură. Sortați-l după medie. Afișați studenții cu restanțe, astfel: id, nume, prenume, număr de restanțe.  
 
-* ***Implementați cerințele de mai sus utilizând funcții***: 
+* **Implementați cerințele de mai sus utilizând funcții**: 
  -alocare spațiu pentru vector, sortare pentru vector, afișare pentru vector
  -citire date pentru o variabilă de tip student, calcul medie/ restanță pentru un student, afișare date student 
 ** Pentru sortare se poate folosi orice metodă
