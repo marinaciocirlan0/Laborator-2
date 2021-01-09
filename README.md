@@ -13,9 +13,6 @@ double note[5]; // aici se salveaza notele obtinute in semestrul anterior
 };
 ```
 
-1. În main – declarați un vector student alocat dinamic. Populați-l cu date citite de la tastatură. Sortați-l după medie. Afișați studenții cu restanțe, astfel: id, nume, prenume, număr de restanțe.  
-
-
 1. În main – declarați un vector student alocat dinamic și populați-l cu datele citite de la tastatură. Realizați o sortare după medie și mai apoi afișați studenții cu restanțe astfel: id, nume, prenume, număr de restanțe. 
 
 * **Implementați cerințele utilizând funcții pentru** 
