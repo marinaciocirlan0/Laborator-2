@@ -2,7 +2,7 @@
 
 **Cerinta**
 
-Se da stuctura student: 
+- Se da stuctura student: 
 
 struct student{
 char *nume, *prenume;
