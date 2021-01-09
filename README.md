@@ -1,2 +1,2 @@
-# Laborator-2
-Alocare dinamica, structuri
+# Laborator-2 Alocare dinamica, structuri
+
